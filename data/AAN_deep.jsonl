@@ -1,0 +1,318 @@
+{"sub": "Japanese language", "rel": "contain", "obj": "orthographic variants", "doc-id": 3885, "question": "What does the Japanese language contain?"}
+{"sub": "child-specific metric", "rel": "learns", "obj": "ages at which speech samples were produced", "doc-id": 2434, "question": "What does a child-specific metric learn?"}
+{"sub": "non-ITG sentence pairs", "rel": "allows", "obj": "learn ITG alignment models", "doc-id": 2901, "question": "What do non-ITG sentence pairs allow?"}
+{"sub": "small Thai corpus", "rel": "contain", "obj": "22,311 ambiguous words", "doc-id": 4573, "question": "What does the small Thai corpus contain?"}
+{"sub": "computing the global normalization factor", "rel": "can be used in", "obj": "extremely hard", "doc-id": 1275, "question": "What can the global normalization factor be used in?"}
+{"sub": "Persian syntactic dependency treebank", "rel": "describes", "obj": "annotation process and linguistic properties", "doc-id": 2425, "question": "What does the Persian syntactic dependency treebank describe?"}
+{"sub": "cross-language information retrieval techniques", "rel": "has", "obj": "highest success rate", "doc-id": 1206, "question": "What techniques are associated with cross-language information retrieval?"}
+{"sub": "Hideo Watanabe", "rel": "is affiliated with", "obj": "IBM Research", "doc-id": 2663, "question": "What organization is Hideo Watanabe affiliated with?"}
+{"sub": "topic distributions", "rel": "compute", "obj": "topic-dependent lexical weighting probabilities", "doc-id": 565, "question": "What are the topic distributions computed for?"}
+{"sub": "domain-specific image captioning", "rel": "captures", "obj": "relevant visual details", "doc-id": 157, "question": "What does domain-specific image captioning capture?"}
+{"sub": "deterministic permutation parser", "rel": "provides", "obj": "hierarchical information", "doc-id": 84, "question": "What does the deterministic permutation parser provide?"}
+{"sub": "R-precision evaluation metric", "rel": "achieves", "obj": "highest correlation with human annotations", "doc-id": 3989, "question": "What does the R-precision evaluation metric achieve?"}
+{"sub": "entropy reduction", "rel": "is related to", "obj": "processing effort", "doc-id": 4803, "question": "What is entropy reduction related to?"}
+{"sub": "Jackie Chi Kit Cheung", "rel": "is affiliated with", "obj": "University of Toronto", "doc-id": 3570, "question": "What organization is Jackie Chi Kit Cheung affiliated with?"}
+{"sub": "word category information", "rel": "uses", "obj": "verb disambiguation", "doc-id": 3051, "question": "What does the word category information use?"}
+{"sub": "streaming algorithm paradigm", "rel": "has", "obj": "large amounts of data", "doc-id": 573, "question": "What does the streaming algorithm paradigm have?"}
+{"sub": "NTCIR 8 MOAT", "rel": "propose", "obj": "tracks", "doc-id": 4024, "question": "What does NTCIR 8 MOAT propose?"}
+{"sub": "WMT13 Shared Translation Task", "rel": "describes", "obj": "phrase-based SMT systems", "doc-id": 1843, "question": "What does the WMT13 Shared Translation Task describe?"}
+{"sub": "HiFST", "rel": "is on", "obj": "hierarchical phrase-based decoder", "doc-id": 436, "question": "What is HiFST on?"}
+{"sub": "Stochastic Bracketing LITGs", "rel": "is faster than", "obj": "Stochastic Bracketing ITGs", "doc-id": 3922, "question": "What is Stochastic Bracketing LITGs faster than?"}
+{"sub": "flexible pattern matching module", "rel": "can handle", "obj": "large volumes of documents", "doc-id": 979, "question": "What can the flexible pattern matching module handle?"}
+{"sub": "Hypergraphs", "rel": "uses", "obj": "machine translation", "doc-id": 1050, "question": "What do hypergraphs use?"}
+{"sub": "n-gram posterior probabilities", "rel": "can improve", "obj": "translation quality", "doc-id": 392, "question": "What can n-gram posterior probabilities improve?"}
+{"sub": "Part-of-Speech tagging", "rel": "apply to", "obj": "Spanish-English code-switched discourse", "doc-id": 4642, "question": "What does Part-of-Speech tagging apply to?"}
+{"sub": "TUNA-REG?09 Challenge", "rel": "is on", "obj": "shared-task evaluation competition", "doc-id": 444, "question": "What is the TUNA-REG?09 Challenge on?"}
+{"sub": "syntactic parser architecture", "rel": "presents", "obj": "novel", "doc-id": 3090, "question": "What does the syntactic parser architecture present?"}
+{"sub": "corpus level topic information", "rel": "provides", "obj": "stable evidences for discriminative features", "doc-id": 4722, "question": "What information does the corpus level topic provide?"}
+{"sub": "reference decisions", "rel": "depend on", "obj": "availability of the object referred to within a context", "doc-id": 4209, "question": "What do reference decisions depend on?"}
+{"sub": "linear support vector machines", "rel": "achieves", "obj": "high classification accuracy", "doc-id": 3582, "question": "What does linear support vector machines achieve?"}
+{"sub": "automated acquisition", "rel": "increases", "obj": "robustness and portability of NLP systems", "doc-id": 3641, "question": "What does automated acquisition increase?"}
+{"sub": "2008 NIST Open MT evaluation", "rel": "is related to", "obj": "Chinese-to-English track", "doc-id": 2046, "question": "What is related to the 2008 NIST Open MT evaluation?"}
+{"sub": "QARLA evaluation framework", "rel": "apply to", "obj": "DUC 2004 testbed", "doc-id": 3697, "question": "What does the QARLA evaluation framework apply to?"}
+{"sub": "Dublin City University (DCU)", "rel": "developed", "obj": "augmented threepass system combination framework", "doc-id": 226, "question": "What did Dublin City University (DCU) develop?"}
+{"sub": "automated segmenters", "rel": "performs", "obj": "word segmentation", "doc-id": 269, "question": "What do automated segmenters perform?"}
+{"sub": "knowledge-lean disambiguation algorithms", "rel": "outperforms", "obj": "gold-standard domain-specific datasets", "doc-id": 3648, "question": "What do knowledge-lean disambiguation algorithms outperform?"}
+{"sub": "vine grammar", "rel": "has", "obj": "finite-state power", "doc-id": 1154, "question": "What does vine grammar have?"}
+{"sub": "BioCreAtIvE Task 1B evaluation", "rel": "demonstrates", "obj": "promise", "doc-id": 4626, "question": "What does the BioCreAtIvE Task 1B evaluation demonstrate?"}
+{"sub": "understanding the connotation of words", "rel": "require", "obj": "common sense and world knowledge", "doc-id": 3234, "question": "What do you require to understand the connotation of words?"}
+{"sub": "multi-word rules", "rel": "improves over", "obj": "translation quality", "doc-id": 1946, "question": "What does multi-word rules improve over?"}
+{"sub": "walk-based graph kernel", "rel": "generalizes", "obj": "treekernels", "doc-id": 3112, "question": "What does the walk-based graph kernel generalize?"}
+{"sub": "efficient STAG parsing algorithms", "rel": "depend on", "obj": "rank of the grammar", "doc-id": 3992, "question": "What do efficient STAG parsing algorithms depend on?"}
+{"sub": "acoustic to spelling transcription", "rel": "produces", "obj": "spoken input", "doc-id": 4107, "question": "What does acoustic to spelling transcription produce?"}
+{"sub": "efficient scalable greedy optimization scheme", "rel": "has", "obj": "constant factor guarantee of optimality", "doc-id": 4213, "question": "What does the efficient scalable greedy optimization scheme have?"}
+{"sub": "time alignment problem", "rel": "is related to", "obj": "first-order Hidden Markov model", "doc-id": 654, "question": "What is the object related to the time alignment problem?"}
+{"sub": "discriminatively trained monolingual word aligner", "rel": "uses", "obj": "Conditional Random Field", "doc-id": 1286, "question": "What does the discriminatively trained monolingual word aligner use?"}
+{"sub": "distributional meaning", "rel": "is derived from", "obj": "morphologically complex words", "doc-id": 2958, "question": "What is distributional meaning derived from?"}
+{"sub": "WoZ", "rel": "is used for", "obj": "collecting dialogue data", "doc-id": 2576, "question": "What is WoZ used for?"}
+{"sub": "novel linguistic generalities", "rel": "lead to", "obj": "applications", "doc-id": 4776, "question": "What do novel linguistic generalities lead to?"}
+{"sub": "broader class of grammars", "rel": "supports", "obj": "cubic-time decoding", "doc-id": 532, "question": "What does the broader class of grammars support?"}
+{"sub": "theory of tenses", "rel": "is based on", "obj": "H. Kamp and Ch. Rohrer", "doc-id": 4754, "question": "What is the theory of tenses based on?"}
+{"sub": "information extraction and language checking applications", "rel": "benefit from", "obj": "deep grammatical analysis", "doc-id": 3328, "question": "What benefits do information extraction and language checking applications gain?"}
+{"sub": "Cost-sensitive learner", "rel": "is based on", "obj": "high recall predictor", "doc-id": 798, "question": "What is a cost-sensitive learner based on?"}
+{"sub": "COGENT concept inventories", "rel": "supports", "obj": "computational identification of student misconceptions about earthquakes and plate tectonics", "doc-id": 3636, "question": "What does the COGENT concept inventories support?"}
+{"sub": "Lexical cohesion", "rel": "is treated as", "obj": "multi-scale phenomenon", "doc-id": 1439, "question": "What is lexical cohesion treated as?"}
+{"sub": "Pareto optimal solutions", "rel": "combine", "obj": "construct confusion networks", "doc-id": 1207, "question": "What do Pareto optimal solutions combine?"}
+{"sub": "semantic predicate-argument structures", "rel": "incorporate", "obj": "machine translation", "doc-id": 8, "question": "What do semantic predicate-argument structures incorporate?"}
+{"sub": "existing MSA analyzer", "rel": "extends", "obj": "morphological clitics", "doc-id": 306, "question": "What does the existing MSA analyzer extend?"}
+{"sub": "dependency-based perspective", "rel": "represent", "obj": "linguistic meaning", "doc-id": 4512, "question": "What does a dependency-based perspective represent?"}
+{"sub": "Multitask learning techniques", "rel": "exploits", "obj": "commonalities between tasks", "doc-id": 175, "question": "What do multitask learning techniques exploit?"}
+{"sub": "word-based combination", "rel": "uses", "obj": "confusion networks", "doc-id": 3500, "question": "What does a word-based combination use?"}
+{"sub": "relaxed linear program", "rel": "is a type of", "obj": "non-projective dependency parser", "doc-id": 2252, "question": "What type of object is a relaxed linear program?"}
+{"sub": "left-corner parsing strategy", "rel": "is a type of", "obj": "parsing strategy", "doc-id": 1040, "question": "What type of parsing strategy is the left-corner parsing strategy?"}
+{"sub": "Armijo algorithm", "rel": "performs", "obj": "line search efficiently", "doc-id": 206, "question": "What does the Armijo algorithm perform?"}
+{"sub": "statistical off-the-shelf POS taggers", "rel": "achieves", "obj": "higher performance level than for the newspaper genre", "doc-id": 1593, "question": "What do statistical off-the-shelf POS taggers achieve?"}
+{"sub": "interactive information base", "rel": "provides", "obj": "basic universal properties of the characters", "doc-id": 1703, "question": "What does the interactive information base provide?"}
+{"sub": "Moses MERT utility", "rel": "is on", "obj": "variant of coordinate descent", "doc-id": 381, "question": "What is Moses MERT utility on?"}
+{"sub": "highly informative POS tagset", "rel": "has", "obj": "medium prediction accuracy", "doc-id": 4980, "question": "What does the highly informative POS tagset have?"}
+{"sub": "depth-first op-down parsing", "rel": "produces", "obj": "partial parses", "doc-id": 1356, "question": "What does depth-first op-down parsing produce?"}
+{"sub": "Arabic-English name transliteration task", "rel": "achieves", "obj": "relative error reduction", "doc-id": 1145, "question": "What does the Arabic-English name transliteration task achieve?"}
+{"sub": "statistical language generation", "rel": "focus on", "obj": "grammaticality and naturalness", "doc-id": 1721, "question": "What does statistical language generation focus on?"}
+{"sub": "C&C CCG parser", "rel": "makes", "obj": "errors", "doc-id": 1972, "question": "What does the C&C CCG parser make?"}
+{"sub": "DynDial project", "rel": "describes", "obj": "incremental semantic interpretation in dialogue", "doc-id": 2560, "question": "What does the DynDial project describe?"}
+{"sub": "SVM-TOK tokenizer", "rel": "achieves", "obj": "score of 99.12", "doc-id": 1042, "question": "What does the SVM-TOK tokenizer achieve?"}
+{"sub": "Word Sense Disambiguation process", "rel": "relies on", "obj": "WordNet-based semantic similarity measure", "doc-id": 869, "question": "What does the Word Sense Disambiguation process rely on?"}
+{"sub": "skip-bigram cooccurrence statistics", "rel": "measures", "obj": "overlap of skip-bigrams", "doc-id": 3402, "question": "What do skip-bigram cooccurrence statistics measure?"}
+{"sub": "phrasal SMT", "rel": "addresses", "obj": "theoretical and practical issues", "doc-id": 2205, "question": "What does phrasal SMT address?"}
+{"sub": "shift-reduce decoding algorithm", "rel": "generates", "obj": "ITG-legal translation", "doc-id": 1424, "question": "What does the shift-reduce decoding algorithm generate?"}
+{"sub": "denotation graph", "rel": "is on", "obj": "subsumption hierarchy", "doc-id": 3704, "question": "What is the denotation graph on?"}
+{"sub": "Grapheme-to-phoneme conversion", "rel": "is a component of", "obj": "text-to-speech system", "doc-id": 4612, "question": "What is a component of grapheme-to-phoneme conversion?"}
+{"sub": "subword units", "rel": "encode", "obj": "phonemic and graphemic information", "doc-id": 2896, "question": "What do subword units encode?"}
+{"sub": "Data preprocessing", "rel": "plays a role in", "obj": "phrase-based statistical machine translation", "doc-id": 217, "question": "What role does data preprocessing play in data analysis?"}
+{"sub": "Combinatorial Categorial Grammar", "rel": "presents", "obj": "phrase-based machine translation", "doc-id": 1096, "question": "What does Combinatorial Categorial Grammar present?"}
+{"sub": "ZKL", "rel": "outperforms", "obj": "existing measures", "doc-id": 4206, "question": "What does ZKL outperform?"}
+{"sub": "Partially Observable Markov Decision Process framework", "rel": "influences", "obj": "dialog state tracking algorithms", "doc-id": 2850, "question": "What does the Partially Observable Markov Decision Process framework influence?"}
+{"sub": "corpus of events for Twitter", "rel": "consist of", "obj": "50 million documents", "doc-id": 2923, "question": "What does the corpus of events for Twitter consist of?"}
+{"sub": "heterogeneity of the measures", "rel": "increases", "obj": "combined reliability", "doc-id": 1110, "question": "What does the heterogeneity of the measures increase?"}
+{"sub": "N-gram-based SMT framework", "rel": "provides", "obj": "principled model", "doc-id": 85, "question": "What does the N-gram-based SMT framework provide?"}
+{"sub": "automatic subjectivity analysis", "rel": "deals with", "obj": "subjective statements", "doc-id": 4592, "question": "What does automatic subjectivity analysis deal with?"}
+{"sub": "modular semantics construction principles", "rel": "allows", "obj": "flexible adaptation", "doc-id": 4310, "question": "What does modular semantics construction principles allow?"}
+{"sub": "Classification and Regression Tree techniques", "rel": "suggests", "obj": "approach is feasible", "doc-id": 3490, "question": "What do Classification and Regression Tree techniques suggest?"}
+{"sub": "collection of emotion-provoking event instances", "rel": "uses", "obj": "labelled examples", "doc-id": 1530, "question": "What does the collection of emotion-provoking event instances use?"}
+{"sub": "University of Oslo", "rel": "submitted", "obj": "2012 *SEM Shared Task on resolving negation", "doc-id": 3212, "question": "What did the University of Oslo submit?"}
+{"sub": "IED kernel", "rel": "is used as", "obj": "classifiers", "doc-id": 840, "question": "What is the IED kernel used as?"}
+{"sub": "Interactive spoken dialog", "rel": "provides", "obj": "challenges for spoken language systems", "doc-id": 4303, "question": "What does interactive spoken dialog provide?"}
+{"sub": "softmax-margin", "rel": "is on", "obj": "convex objective", "doc-id": 2689, "question": "What is the softmax-margin on?"}
+{"sub": "Johnston 1998a", "rel": "propose", "obj": "a modular approach to multimodal language processing", "doc-id": 3020, "question": "What does Johnston 1998a propose?"}
+{"sub": "using packed forests", "rel": "result in", "obj": "significant absolute improvement of 3.6 BLEU points", "doc-id": 791, "question": "What do using packed forests result in?"}
+{"sub": "generation grammars", "rel": "addresses", "obj": "computational complexity", "doc-id": 594, "question": "What do generation grammars address?"}
+{"sub": "smoothing probability estimates", "rel": "apply to", "obj": "rare words", "doc-id": 4608, "question": "What does smoothing probability estimates apply to?"}
+{"sub": "A* search heuristics", "rel": "developed", "obj": "synchronous parsing", "doc-id": 2055, "question": "Who developed A* search heuristics?"}
+{"sub": "WMT12 shared task", "rel": "submitted", "obj": "Quality Estimation", "doc-id": 3150, "question": "What was submitted for the WMT12 shared task?"}
+{"sub": "paraphrase table", "rel": "is extracted from", "obj": "large bilingual parallel corpus", "doc-id": 3897, "question": "What is extracted from the paraphrase table?"}
+{"sub": "transliterated words", "rel": "allows", "obj": "spelling variations", "doc-id": 3885, "question": "What do transliterated words allow?"}
+{"sub": "iBLEU", "rel": "measures", "obj": "adequacy and diversity", "doc-id": 3865, "question": "What does iBLEU measure?"}
+{"sub": "interactive feature space construction protocol", "rel": "over", "obj": "limitation", "doc-id": 836, "question": "What is the interactive feature space construction protocol based over?"}
+{"sub": "Linear Transduction Grammars", "rel": "generates", "obj": "the same transductions as Linear Inversion Transduction Grammars", "doc-id": 224, "question": "What does Linear Transduction Grammars generate?"}
+{"sub": "stochastic parsers", "rel": "uses", "obj": "bilexical grammars", "doc-id": 4986, "question": "What do stochastic parsers use?"}
+{"sub": "Integrated Segmentation and Alignment", "rel": "describes", "obj": "competitive grouping algorithm", "doc-id": 2031, "question": "What does Integrated Segmentation and Alignment describe?"}
+{"sub": "abbreviation generator", "rel": "achieves", "obj": "best results", "doc-id": 3165, "question": "What does the abbreviation generator achieve?"}
+{"sub": "additional n-gram features", "rel": "extracts", "obj": "edit removed texts", "doc-id": 2110, "question": "What does the additional n-gram features extract?"}
+{"sub": "unsupervised SMT", "rel": "induce", "obj": "word-based translation model", "doc-id": 286, "question": "What does unsupervised SMT induce?"}
+{"sub": "computational architecture", "rel": "developed", "obj": "reversible grammars", "doc-id": 784, "question": "What was developed in relation to computational architecture?"}
+{"sub": "Threaded discussion forums", "rel": "provides", "obj": "social media platform", "doc-id": 4256, "question": "What do threaded discussion forums provide?"}
+{"sub": "approximate inference techniques", "rel": "supports", "obj": "efficient parameter estimation", "doc-id": 1082, "question": "What do approximate inference techniques support?"}
+{"sub": "ROUGE-W", "rel": "compute", "obj": "longest common subsequences", "doc-id": 3245, "question": "What does ROUGE-W compute?"}
+{"sub": "Phramer", "rel": "describes", "obj": "Phrase-Based Statistical Machine Translation Decoder", "doc-id": 4965, "question": "What does Phramer describe?"}
+{"sub": "automatic syntactic simplification", "rel": "improves over", "obj": "content selection", "doc-id": 1780, "question": "What does automatic syntactic simplification improve over?"}
+{"sub": "SVM-based classifier", "rel": "selects", "obj": "likely sentence-level paraphrases", "doc-id": 3140, "question": "What does the SVM-based classifier select?"}
+{"sub": "human interpretable grammar", "rel": "is competitive with", "obj": "latent variable PCFG", "doc-id": 1427, "question": "What is human interpretable grammar competitive with?"}
+{"sub": "TrustRank", "rel": "enables", "obj": "user to set a quality threshold", "doc-id": 577, "question": "What does TrustRank enable?"}
+{"sub": "dependency-based bracketing transduction grammar", "rel": "is proposed for", "obj": "statistical machine translation", "doc-id": 86, "question": "What is the dependency-based bracketing transduction grammar proposed for?"}
+{"sub": "indexing algorithm", "rel": "is for", "obj": "hybrid lattices", "doc-id": 3869, "question": "What is the indexing algorithm used for?"}
+{"sub": "aligned forest-string pairs", "rel": "extracts", "obj": "composed tree-to-string translation rules", "doc-id": 204, "question": "What do aligned forest-string pairs extract?"}
+{"sub": "premature ambiguity resolution", "rel": "makes", "obj": "parsing infeasible", "doc-id": 3982, "question": "What does premature ambiguity resolution make?"}
+{"sub": "graph-theoretic problem", "rel": "involve", "obj": "finding the minimum path covering of the source language dependency tree", "doc-id": 1068, "question": "What does the graph-theoretic problem involve?"}
+{"sub": "orthographic measure (BI-SIM)", "rel": "outperforms", "obj": "commonly used measures of similarity", "doc-id": 2765, "question": "What does the orthographic measure (BI-SIM) outperform?"}
+{"sub": "SemEval task", "rel": "evaluates", "obj": "Word Sense Induction and Disambiguation systems", "doc-id": 1901, "question": "What does the SemEval task evaluate?"}
+{"sub": "unsupervised PP attachment", "rel": "integrates", "obj": "the parser", "doc-id": 846, "question": "What does unsupervised PP attachment integrate?"}
+{"sub": "packing several consecutive words", "rel": "correspond to", "obj": "single word in the opposite language", "doc-id": 457, "question": "What do several consecutive words correspond to?"}
+{"sub": "information from morphology", "rel": "improves over", "obj": "quality of word alignments", "doc-id": 2972, "question": "What does information from morphology improve over?"}
+{"sub": "finitestate automata", "rel": "uses", "obj": "computational phonology", "doc-id": 3546, "question": "What does finite state automata use?"}
+{"sub": "SOUL architecture", "rel": "is used in", "obj": "multi-layer neural network", "doc-id": 903, "question": "What is SOUL architecture used in?"}
+{"sub": "active learning query strategies", "rel": "identifies", "obj": "highly uncertain or most informative alignment links", "doc-id": 1637, "question": "What do active learning query strategies identify?"}
+{"sub": "Nivre and McDonald", "rel": "uses", "obj": "output of one dependency parser", "doc-id": 1437, "question": "What do Nivre and McDonald use?"}
+{"sub": "extraction-based summarization", "rel": "is comparable to", "obj": "best DUC systems", "doc-id": 1648, "question": "What is extraction-based summarization comparable to?"}
+{"sub": "mapping dictionary", "rel": "is a type of", "obj": "lexicon", "doc-id": 36, "question": "What type of object is a mapping dictionary?"}
+{"sub": "PCFG parsing pipeline", "rel": "improves over", "obj": "base-phrase constraints", "doc-id": 1574, "question": "What does the PCFG parsing pipeline improve over?"}
+{"sub": "clustering words", "rel": "addresses", "obj": "co-occurrence data", "doc-id": 4568, "question": "What does clustering words address?"}
+{"sub": "Composition support environments", "rel": "require", "obj": "robust NLP tools", "doc-id": 4805, "question": "What do composition support environments require?"}
+{"sub": "feature-rich discriminative classifiers", "rel": "predicts", "obj": "target-side word order", "doc-id": 509, "question": "What do feature-rich discriminative classifiers predict?"}
+{"sub": "different word-level preprocessing schemes", "rel": "affects", "obj": "quality of phrase-based statistical machine translation", "doc-id": 2960, "question": "How do different word-level preprocessing schemes affect the performance of natural language processing models?"}
+{"sub": "new hypothesis alignment metric", "rel": "is used for", "obj": "English-targeted hypothesis alignment", "doc-id": 226, "question": "What is the new hypothesis alignment metric used for?"}
+{"sub": "Parsing out-of-domain text", "rel": "introduces", "obj": "types of errors", "doc-id": 3940, "question": "What does parsing out-of-domain text introduce?"}
+{"sub": "Expectation Maximization (EM) algorithm", "rel": "takes into account", "obj": "ambiguity", "doc-id": 4496, "question": "What factors does the Expectation Maximization (EM) algorithm take into account?"}
+{"sub": "unbounded data streams", "rel": "require", "obj": "an overwhelming amount of manpower", "doc-id": 13, "question": "What do unbounded data streams require?"}
+{"sub": "unsupervised learning of part-of-speech tags", "rel": "achieves", "obj": "accuracy of 75.34%", "doc-id": 3841, "question": "What does unsupervised learning of part-of-speech tags achieve?"}
+{"sub": "Dale & Reiter Incremental algorithm", "rel": "applied in", "obj": "REG Challenge 2008", "doc-id": 1783, "question": "In what contexts is the Dale & Reiter Incremental algorithm applied?"}
+{"sub": "unlexicalized parsing", "rel": "improves over", "obj": "hierarchically state-split PCFGs", "doc-id": 770, "question": "What does unlexicalized parsing improve over?"}
+{"sub": "Set-Local Multi-Component TAGs", "rel": "has", "obj": "greater derivational generative capacity", "doc-id": 4344, "question": "What does Set-Local Multi-Component TAGs have?"}
+{"sub": "learning rules for matching paragraphs", "rel": "uses", "obj": "topic structure", "doc-id": 1365, "question": "What does learning rules for matching paragraphs use?"}
+{"sub": "AAN phrases", "rel": "indicates", "obj": "word order restriction", "doc-id": 4485, "question": "What do AAN phrases indicate?"}
+{"sub": "Support Vector Machines learner", "rel": "obtain", "obj": "27% accuracy", "doc-id": 4609, "question": "What does a Support Vector Machines learner obtain?"}
+{"sub": "maximum margin and conditional likelihood objectives", "rel": "include", "obj": "new normal form grammar", "doc-id": 2901, "question": "What do the maximum margin and conditional likelihood objectives include?"}
+{"sub": "protocol generation component", "rel": "is extended by", "obj": "planning and formatting routines for protocol formulations", "doc-id": 3806, "question": "What is the protocol generation component extended by?"}
+{"sub": "Minimum Error Rate Training", "rel": "is a method for", "obj": "training the parameters of a loglinear model", "doc-id": 282, "question": "What is Minimum Error Rate Training a method for?"}
+{"sub": "approximate phrase mapping algorithm", "rel": "propose", "obj": "mapping score", "doc-id": 4191, "question": "What does the approximate phrase mapping algorithm propose?"}
+{"sub": "TERp machine translation metric", "rel": "is used by", "obj": "alignment algorithm", "doc-id": 3598, "question": "What is the TERp machine translation metric used by?"}
+{"sub": "WSD task", "rel": "matches", "obj": "phrasal translation disambiguation task", "doc-id": 595, "question": "What does the WSD task match?"}
+{"sub": "soft constituent-level constraints", "rel": "based on", "obj": "parses of the source language", "doc-id": 1536, "question": "What are soft constituent-level constraints based on?"}
+{"sub": "image caption generalization", "rel": "is for", "obj": "visually-guided sentence compression", "doc-id": 3230, "question": "What is image caption generalization for?"}
+{"sub": "chest Xray reports", "rel": "contain", "obj": "descriptions of change of state", "doc-id": 4953, "question": "What do chest X-ray reports contain?"}
+{"sub": "accuracy of recognizing alternative lexical realizations", "rel": "is important for", "obj": "predicting semantic translation adequacy", "doc-id": 56, "question": "What is the significance of the accuracy of recognizing alternative lexical realizations?"}
+{"sub": "co-occurrence based word association measure", "rel": "incorporate", "obj": "Pointwise Mutual Information (PMI)", "doc-id": 1709, "question": "What does the co-occurrence based word association measure incorporate?"}
+{"sub": "novel decoding algorithm", "rel": "has", "obj": "tens of thousands of rules", "doc-id": 176, "question": "What does the novel decoding algorithm have?"}
+{"sub": "incorporation of TAG", "rel": "yields", "obj": "several benefits to the systemic framework", "doc-id": 3556, "question": "What does the incorporation of TAG yield?"}
+{"sub": "incremental cluster-building algorithm", "rel": "achieves", "obj": "82% accuracy", "doc-id": 2226, "question": "What does the incremental cluster-building algorithm achieve?"}
+{"sub": "bilexical dependencies", "rel": "include", "obj": "parameters", "doc-id": 1684, "question": "What do bilexical dependencies include?"}
+{"sub": "treebank categories", "rel": "uses", "obj": "previous studies", "doc-id": 3175, "question": "What does treebank categories use?"}
+{"sub": "acquired predominant senses", "rel": "gives", "obj": "precision of 64%", "doc-id": 1407, "question": "What does acquiring predominant senses give?"}
+{"sub": "decision tree learning", "rel": "uses", "obj": "real dialogue data", "doc-id": 2128, "question": "What does decision tree learning use?"}
+{"sub": "Ravi Kondadadi", "rel": "is affiliated with", "obj": "Nuance Communications, Inc.", "doc-id": 334, "question": "What organization is Ravi Kondadadi affiliated with?"}
+{"sub": "linear-time parsing algorithm", "rel": "based on", "obj": "Combinatory Categorial Grammar", "doc-id": 3016, "question": "What is the linear-time parsing algorithm based on?"}
+{"sub": "new tagger of English", "rel": "uses", "obj": "linguistic distributional rules", "doc-id": 3489, "question": "What does the new tagger of English use?"}
+{"sub": "second order context vectors", "rel": "based on", "obj": "average of vectors", "doc-id": 4471, "question": "What are second order context vectors based on?"}
+{"sub": "Ontology Engineer", "rel": "identifies", "obj": "important concepts in a Domain Ontology", "doc-id": 4305, "question": "What does an Ontology Engineer identify?"}
+{"sub": "Clark", "rel": "developed", "obj": "compositional model of meaning", "doc-id": 2213, "question": "What did Clark develop?"}
+{"sub": "non-parallel corpora", "rel": "contain", "obj": "no parallel sentence pairs", "doc-id": 576, "question": "What do non-parallel corpora contain?"}
+{"sub": "Using POS tags", "rel": "gives", "obj": "better performance", "doc-id": 2593, "question": "What does using POS tags give?"}
+{"sub": "unsupervised entailment rule acquisition", "rel": "focus on", "obj": "rules between templates with two variables", "doc-id": 2587, "question": "What does unsupervised entailment rule acquisition focus on?"}
+{"sub": "LexPageRank", "rel": "is based on", "obj": "eigenvector centrality", "doc-id": 855, "question": "What is LexPageRank based on?"}
+{"sub": "Approximate expected BLEU", "rel": "uses", "obj": "objective function", "doc-id": 400, "question": "What does the approximate expected BLEU use?"}
+{"sub": "sentiment and topic lexicons", "rel": "is important for", "obj": "opinion mining", "doc-id": 3238, "question": "What is the significance of sentiment and topic lexicons?"}
+{"sub": "cross-lingual algorithm", "rel": "improves over", "obj": "high quality concept extension", "doc-id": 4895, "question": "What does the cross-lingual algorithm improve over?"}
+{"sub": "Winograd Schema Challenge", "rel": "is an alternative to", "obj": "Turing Test", "doc-id": 3703, "question": "What is an alternative to the Winograd Schema Challenge?"}
+{"sub": "coreference resolution tools", "rel": "apply to", "obj": "outputs", "doc-id": 863, "question": "What do coreference resolution tools apply to?"}
+{"sub": "linear regressor", "rel": "is used for", "obj": "typed-similarity task", "doc-id": 1941, "question": "What is a linear regressor used for?"}
+{"sub": "Morfessor Baseline", "rel": "is a method for", "obj": "unsupervised morphological segmentation", "doc-id": 2885, "question": "What method does Morfessor Baseline use?"}
+{"sub": "efficient graph algorithms", "rel": "determine", "obj": "symmetric alignment with minimal total costs", "doc-id": 1144, "question": "What do efficient graph algorithms determine?"}
+{"sub": "word clustering algorithms", "rel": "performs", "obj": "generalizations", "doc-id": 643, "question": "What do word clustering algorithms perform?"}
+{"sub": "additional standardization of scores", "rel": "apply to", "obj": "inter-annotator agreement", "doc-id": 4716, "question": "What does the additional standardization of scores apply to?"}
+{"sub": "infinite HMM", "rel": "addresses", "obj": "problem of choosing the number of hidden states", "doc-id": 2360, "question": "What does the infinite HMM address?"}
+{"sub": "bidirectional parser", "rel": "is for", "obj": "Lexicalized Tree Adjoining Grammars", "doc-id": 861, "question": "What is a bidirectional parser used for?"}
+{"sub": "monotone phrasal decoder", "rel": "generates", "obj": "contextual replacements", "doc-id": 947, "question": "What does the monotone phrasal decoder generate?"}
+{"sub": "Experiments with Support Vector Machines", "rel": "provides", "obj": "empirical support to our thesis", "doc-id": 2296, "question": "What does Experiments with Support Vector Machines provide?"}
+{"sub": "Abstract Meaning Representation", "rel": "is on", "obj": "semantic formalism", "doc-id": 4366, "question": "What is Abstract Meaning Representation on?"}
+{"sub": "corpus selection", "rel": "affects", "obj": "recasing", "doc-id": 379, "question": "What does corpus selection affect?"}
+{"sub": "NIST Chinese-English MT evaluation data", "rel": "is used in", "obj": "evaluation", "doc-id": 2826, "question": "What is the NIST Chinese-English MT evaluation data used in?"}
+{"sub": "Jason S. Chang", "rel": "is affiliated with", "obj": "National Tsing Hua Univ.", "doc-id": 2703, "question": "What organization is Jason S. Chang affiliated with?"}
+{"sub": "features driven from Context Free Grammar (CFG) parse trees", "rel": "improves over", "obj": "detection performance", "doc-id": 3470, "question": "What does the features driven from Context Free Grammar (CFG) parse trees improve over?"}
+{"sub": "Bracketed Recall Algorithm", "rel": "maximizes", "obj": "Bracketed Recall Rate", "doc-id": 773, "question": "What does the Bracketed Recall Algorithm maximize?"}
+{"sub": "NRC", "rel": "submitted", "obj": "Spanish Cross-Lingual Word Sense Disambiguation task", "doc-id": 11, "question": "What did the NRC submit?"}
+{"sub": "completely frozen expression", "rel": "specify", "obj": "lexical elements", "doc-id": 4365, "question": "What does a completely frozen expression specify?"}
+{"sub": "Marcus, Hindle & Fleck", "rel": "propose", "obj": "approach to syntactic tree structures", "doc-id": 4991, "question": "What proposal did Marcus, Hindle & Fleck make?"}
+{"sub": "fields of information", "rel": "describes", "obj": "the same event", "doc-id": 4749, "question": "What do the fields of information describe?"}
+{"sub": "WMT-2009", "rel": "involve", "obj": "French-English translation task", "doc-id": 427, "question": "What does WMT-2009 involve?"}
+{"sub": "64,000 tokens", "rel": "improves over", "obj": "target language performance", "doc-id": 1256, "question": "What does 64,000 tokens improve over?"}
+{"sub": "standard similarity measures", "rel": "obtain", "obj": "better results", "doc-id": 4368, "question": "What can be obtained using standard similarity measures?"}
+{"sub": "CoNLL 2008 shared task", "rel": "addresses", "obj": "challenge", "doc-id": 2608, "question": "What does the CoNLL 2008 shared task address?"}
+{"sub": "Smoothed Partial Tree Kernel", "rel": "is a type of", "obj": "complex kernel function", "doc-id": 4547, "question": "What type of object is a Smoothed Partial Tree Kernel?"}
+{"sub": "Erasmus Mundus", "rel": "is on", "obj": "Specific Support Action", "doc-id": 2204, "question": "What is Erasmus Mundus on?"}
+{"sub": "grounded language acquisition", "rel": "involve", "obj": "learning to follow navigation instructions", "doc-id": 4692, "question": "What does grounded language acquisition involve?"}
+{"sub": "transcriptions of spontaneous non-native speech", "rel": "provides", "obj": "features for measuring speaking proficiency", "doc-id": 808, "question": "What do transcriptions of spontaneous non-native speech provide?"}
+{"sub": "knowledge-lite fashion", "rel": "identifies", "obj": "likely equivalent", "doc-id": 598, "question": "What does knowledge-lite fashion identify?"}
+{"sub": "Arabic noun stem and verb root inflection", "rel": "utilizes", "obj": "two-way finite automata", "doc-id": 4776, "question": "What does the Arabic noun stem utilize for verb root inflection?"}
+{"sub": "stemgranularity translation rule", "rel": "is associated with", "obj": "a distribution of related affixes", "doc-id": 1121, "question": "What is associated with the stemgranularity translation rule?"}
+{"sub": "combinations of ROUGE variants", "rel": "improves over", "obj": "accuracy of automatic prediction", "doc-id": 4940, "question": "What does the combinations of ROUGE variants improve over?"}
+{"sub": "discriminative learning algorithm", "rel": "is capable of", "obj": "learning parameters in models with extremely sparse features", "doc-id": 78, "question": "What is the discriminative learning algorithm capable of?"}
+{"sub": "reversible stochastic attribute-value grammars", "rel": "employ", "obj": "single statistical model", "doc-id": 873, "question": "What do reversible stochastic attribute-value grammars employ?"}
+{"sub": "CatVar", "rel": "contain", "obj": "categorial variations of English lexemes", "doc-id": 190, "question": "What does CatVar contain?"}
+{"sub": "noun-number and determiner correction", "rel": "applied to", "obj": "classification approach", "doc-id": 4928, "question": "What is the object that noun-number and determiner correction is applied to?"}
+{"sub": "ICSI meeting corpus", "rel": "uses", "obj": "analysis of human annotated extractive summaries", "doc-id": 3037, "question": "What does the ICSI meeting corpus use?"}
+{"sub": "complex constructs", "rel": "require", "obj": "reordering and morphological change", "doc-id": 1369, "question": "What do complex constructs require?"}
+{"sub": "Rieter", "rel": "has", "obj": "default logic", "doc-id": 4973, "question": "What does Rieter have?"}
+{"sub": "TMI indexes", "rel": "result in", "obj": "small loss compared to unindexed lattice search", "doc-id": 4728, "question": "What do TMI indexes result in?"}
+{"sub": "comparative information", "rel": "is important for", "obj": "text mining", "doc-id": 3925, "question": "What is comparative information important for?"}
+{"sub": "sparse grammar", "rel": "describes", "obj": "morphology of the Bantu language Sesotho", "doc-id": 4181, "question": "What does sparse grammar describe?"}
+{"sub": "reliability of measures", "rel": "depend on", "obj": "test collection", "doc-id": 4528, "question": "What do the reliability of measures depend on?"}
+{"sub": "POLITICAL-ADS", "rel": "contain", "obj": "3945 NPs and 1549 VPs", "doc-id": 4883, "question": "What do political ads contain?"}
+{"sub": "ESILKO", "rel": "is a type of", "obj": "word-for-word MT system", "doc-id": 2380, "question": "What type of entity is ESILKO?"}
+{"sub": "direct search in speech recognition transcripts", "rel": "has", "obj": "less than 40% search accuracy", "doc-id": 3869, "question": "What does direct search in speech recognition transcripts have?"}
+{"sub": "HPSG analysis", "rel": "is combined with", "obj": "statistical dependency parsing models", "doc-id": 2575, "question": "What is combined with HPSG analysis?"}
+{"sub": "ITG Hypothesis", "rel": "provides", "obj": "strong inductive bias", "doc-id": 3321, "question": "What does the ITG Hypothesis provide?"}
+{"sub": "Latent Dirichlet allocation", "rel": "is on", "obj": "topic model", "doc-id": 3816, "question": "What is Latent Dirichlet allocation on?"}
+{"sub": "Jeminie", "rel": "helps", "obj": "automatically building interlingual lexical databases", "doc-id": 93, "question": "Who does Jeminie help?"}
+{"sub": "24 SENSEVAL2 words", "rel": "uses", "obj": "experiments", "doc-id": 4471, "question": "What does 24 SENSEVAL2 words use?"}
+{"sub": "Cross-language document summarization", "rel": "is defined as", "obj": "the task of producing a summary in a target language", "doc-id": 3102, "question": "What is cross-language document summarization defined as?"}
+{"sub": "word epoch disambiguation", "rel": "is defined as", "obj": "the problem of identifying changes in word usage over time", "doc-id": 3253, "question": "What is the definition of word epoch disambiguation?"}
+{"sub": "IBM algorithm", "rel": "apply to", "obj": "output of four different summarizers", "doc-id": 3568, "question": "What does the IBM algorithm apply to?"}
+{"sub": "lack of noise control", "rel": "cause", "obj": "degradation of retrieval performance", "doc-id": 4043, "question": "What does the lack of noise control cause?"}
+{"sub": "CREAM", "rel": "is on", "obj": "semantic annotation framework", "doc-id": 1446, "question": "What is CREAM on?"}
+{"sub": "sense alignment", "rel": "is based on", "obj": "FrameNet and Wiktionary", "doc-id": 1056, "question": "What is sense alignment based on?"}
+{"sub": "Logical Semantics with Perception", "rel": "introduces", "obj": "model for grounded language acquisition", "doc-id": 4029, "question": "What does Logical Semantics with Perception introduce?"}
+{"sub": "automatic evaluation using unigram cooccurrences", "rel": "correlate with", "obj": "human evaluations", "doc-id": 673, "question": "What does automatic evaluation using unigram cooccurrences correlate with?"}
+{"sub": "Visual and Natural language Specification Tool", "rel": "uses", "obj": "aggregation technique", "doc-id": 4335, "question": "What does the Visual and Natural Language Specification Tool use?"}
+{"sub": "structural learning performance", "rel": "related to", "obj": "visual and distributional balance of the label hierarchy", "doc-id": 4840, "question": "What is related to structural learning performance?"}
+{"sub": "hypothesis mixture decoding", "rel": "is on", "obj": "decoding scheme", "doc-id": 230, "question": "What is hypothesis mixture decoding on?"}
+{"sub": "Dialog management", "rel": "addresses", "obj": "problems", "doc-id": 4479, "question": "What does dialog management address?"}
+{"sub": "N-best reranking", "rel": "is on", "obj": "framework", "doc-id": 568, "question": "What is N-best reranking on?"}
+{"sub": "lexical overlap", "rel": "compute", "obj": "text structure", "doc-id": 4614, "question": "What does lexical overlap compute?"}
+{"sub": "ACL 2012 Contributed Task", "rel": "presents", "obj": "showcase of the benefits of natural language processing", "doc-id": 2417, "question": "What does the ACL 2012 Contributed Task present?"}
+{"sub": "BLP inference", "rel": "outperforms", "obj": "two existing inference algorithms", "doc-id": 676, "question": "What does BLP inference outperform?"}
+{"sub": "Coverage problem", "rel": "affects", "obj": "performance of SRL systems", "doc-id": 4795, "question": "What does the coverage problem affect?"}
+{"sub": "Oracle experiments", "rel": "shows", "obj": "confusion networks contain paths", "doc-id": 2048, "question": "What do the Oracle experiments show?"}
+{"sub": "bilingual comparable corpora", "rel": "extracts", "obj": "translation context knowledge", "doc-id": 2939, "question": "What do bilingual comparable corpora extract?"}
+{"sub": "morphological analysis components", "rel": "improves over", "obj": "translation quality", "doc-id": 420, "question": "What does morphological analysis components improve over?"}
+{"sub": "definiteness morpheme", "rel": "is treated as", "obj": "possible feature of morpheme terminals", "doc-id": 3415, "question": "What is the definiteness morpheme treated as?"}
+{"sub": "contextual ambiguity", "rel": "enables", "obj": "multiple sense interpretations", "doc-id": 1901, "question": "What does contextual ambiguity enable?"}
+{"sub": "Markovization formulation", "rel": "allows", "obj": "lexicalize probabilities of constituent deletions", "doc-id": 1389, "question": "What does the Markovization formulation allow?"}
+{"sub": "capitalization", "rel": "combine", "obj": "punctuation-induced constraints", "doc-id": 2281, "question": "What can be combined with capitalization?"}
+{"sub": "Bootstrapped Voting Experts algorithm", "rel": "outperforms", "obj": "other methods", "doc-id": 3043, "question": "What does the Bootstrapped Voting Experts algorithm outperform?"}
+{"sub": "most MT evaluations", "rel": "has", "obj": "a human-based component", "doc-id": 583, "question": "What do most MT evaluations have?"}
+{"sub": "stance classification", "rel": "is performed on", "obj": "a corpus of 4873 posts", "doc-id": 4660, "question": "What is stance classification performed on?"}
+{"sub": "discriminative post-editing", "rel": "apply to", "obj": "exceed state-of-the-art performance", "doc-id": 2150, "question": "What does discriminative post-editing apply to?"}
+{"sub": "Structural Correspondence Learning", "rel": "applied in", "obj": "NLP", "doc-id": 4409, "question": "In what contexts is Structural Correspondence Learning applied?"}
+{"sub": "left-to-right decoding", "rel": "can improve", "obj": "decoding efficiency", "doc-id": 525, "question": "What can left-to-right decoding improve?"}
+{"sub": "speeches", "rel": "indicates", "obj": "ideological position", "doc-id": 843, "question": "What do speeches indicate?"}
+{"sub": "Mark Johnson", "rel": "is affiliated with", "obj": "Brown University", "doc-id": 2107, "question": "What organization is Mark Johnson affiliated with?"}
+{"sub": "Example-based Machine Translation", "rel": "has", "obj": "OOV words and rare words", "doc-id": 2924, "question": "What does Example-based Machine Translation have?"}
+{"sub": "standardization and categorization", "rel": "is performed on", "obj": "queries and documents", "doc-id": 3594, "question": "What is standardization and categorization performed on?"}
+{"sub": "Yahoo team", "rel": "participated in", "obj": "third International Chinese Language Processing Bakeoff", "doc-id": 3674, "question": "What event did the Yahoo team participate in?"}
+{"sub": "sentence comprehension", "rel": "involve", "obj": "assigning semantic roles", "doc-id": 3087, "question": "What does sentence comprehension involve?"}
+{"sub": "quasi-synchronous dependency grammar", "rel": "is used for", "obj": "machine translation", "doc-id": 1107, "question": "What is quasi-synchronous dependency grammar used for?"}
+{"sub": "extended categorial grammars", "rel": "contain", "obj": "special inference rules", "doc-id": 2805, "question": "What do extended categorial grammars contain?"}
+{"sub": "LRscore", "rel": "measures", "obj": "reordering success", "doc-id": 2134, "question": "What does LRscore measure?"}
+{"sub": "Bayesian perspective", "rel": "involve", "obj": "posterior inference", "doc-id": 3422, "question": "What does the Bayesian perspective involve?"}
+{"sub": "submodular optimization", "rel": "apply to", "obj": "training data subset selection", "doc-id": 2363, "question": "What problems can submodular optimization be applied to?"}
+{"sub": "POS-based re-order rules", "rel": "integrates", "obj": "left-to-right beam-search algorithm", "doc-id": 176, "question": "What does POS-based re-order rules integrate?"}
+{"sub": "local alignment kernels", "rel": "discuss", "obj": "relation extraction task", "doc-id": 4732, "question": "What do local alignment kernels discuss?"}
+{"sub": "discontinuous rules", "rel": "introduces", "obj": "long-range reorderings", "doc-id": 1922, "question": "What do discontinuous rules introduce?"}
+{"sub": "UPCIPA", "rel": "uses", "obj": "evaluation measures", "doc-id": 2069, "question": "What does UPCIPA use?"}
+{"sub": "choice of the parser", "rel": "affects", "obj": "performance of the system", "doc-id": 1410, "question": "How does the choice of the parser affect the outcome?"}
+{"sub": "tree-adjoining grammars", "rel": "require", "obj": "specially crafted interface", "doc-id": 3012, "question": "What do tree-adjoining grammars require?"}
+{"sub": "Romanian-English data", "rel": "is used for", "obj": "shared task", "doc-id": 4542, "question": "What is Romanian-English data used for?"}
+{"sub": "adding syntactic information", "rel": "improves over", "obj": "evaluation metric", "doc-id": 76, "question": "What does adding syntactic information improve over?"}
+{"sub": "selected sentence pairs", "rel": "evaluates", "obj": "end-to-end MT task", "doc-id": 524, "question": "What do the selected sentence pairs evaluate?"}
+{"sub": "temporal knowledge", "rel": "is associated with", "obj": "each action", "doc-id": 2538, "question": "What is temporal knowledge associated with?"}
+{"sub": "evaluation of user satisfaction", "rel": "require", "obj": "finegrained evaluation", "doc-id": 1346, "question": "What does the evaluation of user satisfaction require?"}
+{"sub": "semantic expansion technology", "rel": "designed for", "obj": "domain of the museum", "doc-id": 2125, "question": "What is semantic expansion technology designed for?"}
+{"sub": "successor position in Spanish", "rel": "compared with", "obj": "successor position in English", "doc-id": 2146, "question": "What is the successor position in Spanish compared to?"}
+{"sub": "family of algorithms", "rel": "include", "obj": "expectation-maximization algorithm", "doc-id": 2463, "question": "What algorithms are included in the family of algorithms?"}
+{"sub": "simple vector space components", "rel": "achieves", "obj": "high performance on short sentences", "doc-id": 3015, "question": "What does simple vector space components achieve?"}
+{"sub": "SLIPPER", "rel": "is on", "obj": "rule-based learning algorithm", "doc-id": 1731, "question": "What is the slipper on?"}
+{"sub": "Earley-style parser", "rel": "is a type of", "obj": "simple range concatenation grammar", "doc-id": 3291, "question": "What type of parser is an Earley-style parser?"}
+{"sub": "best published decipherment error rate", "rel": "based on", "obj": "Gigaword corpus", "doc-id": 4304, "question": "What is the best published decipherment error rate based on?"}
+{"sub": "initial ontology", "rel": "define", "obj": "hundreds of noun categories", "doc-id": 2905, "question": "What is the definition of the initial ontology?"}
+{"sub": "discriminatively trained ranker", "rel": "apply to", "obj": "candidate corrections", "doc-id": 3369, "question": "What does a discriminatively trained ranker apply to?"}
+{"sub": "term similarity measure", "rel": "is based on", "obj": "WordNet hierarchy", "doc-id": 1790, "question": "What is the term similarity measure based on?"}
+{"sub": "ambiguity packing", "rel": "apply to", "obj": "Lexical-Functional Grammars", "doc-id": 3453, "question": "What does ambiguity packing apply to?"}
+{"sub": "efficient tuning", "rel": "maximizes", "obj": "correlation with human system ranking", "doc-id": 189, "question": "What does efficient tuning maximize?"}
+{"sub": "Charles University team", "rel": "participates in", "obj": "WMT 2014 Medical Translation Task", "doc-id": 2647, "question": "What event does the Charles University team participate in?"}
+{"sub": "TnT tagger", "rel": "apply to", "obj": "Urdu language", "doc-id": 4644, "question": "What does the TnT tagger apply to?"}
+{"sub": "accurate part-of-speech tagging", "rel": "provides", "obj": "parsing models", "doc-id": 4053, "question": "What does accurate part-of-speech tagging provide?"}
+{"sub": "psychology", "rel": "is related to", "obj": "artificial intelligence", "doc-id": 2724, "question": "What is psychology related to?"}
+{"sub": "OntoNotes", "rel": "provides", "obj": "WSD examples", "doc-id": 3482, "question": "What does OntoNotes provide?"}
+{"sub": "character-level dependency scheme", "rel": "represent", "obj": "primary linguistic relationships", "doc-id": 3702, "question": "What does the character-level dependency scheme represent?"}
+{"sub": "CCG parse charts", "rel": "trains", "obj": "syntactic analogue of a lexicalized reordering model", "doc-id": 3465, "question": "What do CCG parse charts train?"}
+{"sub": "best automatically induced grammars", "rel": "achieves", "obj": "80.97% f-score for fstructures parsing section 23 of the WSJ part of the Penn-II treebank", "doc-id": 1618, "question": "What do the best automatically induced grammars achieve?"}
+{"sub": "Unsupervised word alignment", "rel": "is modeled as", "obj": "Markov process", "doc-id": 613, "question": "What is unsupervised word alignment modeled as?"}
+{"sub": "AAC user", "rel": "has", "obj": "communication partner", "doc-id": 3456, "question": "What does the AAC user have?"}
+{"sub": "computational simulations", "rel": "propose", "obj": "word segmentation problem", "doc-id": 1244, "question": "What do computational simulations propose?"}
+{"sub": "approximate algorithms", "rel": "uses", "obj": "discriminative online learning", "doc-id": 721, "question": "What do approximate algorithms use?"}
+{"sub": "English-to-English synchronous context-free grammar", "rel": "is derived from", "obj": "baseline MT system", "doc-id": 327, "question": "What is the source of the English-to-English synchronous context-free grammar?"}
+{"sub": "word-level combination", "rel": "provides", "obj": "most robust gains", "doc-id": 317, "question": "What does word-level combination provide?"}
+{"sub": "accuracy of CRF", "rel": "can be improved by", "obj": "features extracted by ReLIE", "doc-id": 3877, "question": "What can improve the accuracy of CRF?"}
+{"sub": "targeted self-training", "rel": "has", "obj": "simple evaluation function", "doc-id": 9, "question": "What does targeted self-training have?"}
+{"sub": "Seven teams", "rel": "submitted", "obj": "final results to the EPI task", "doc-id": 3831, "question": "What did the seven teams submit?"}
+{"sub": "context dependent expectations", "rel": "corrects", "obj": "speech recognition", "doc-id": 1802, "question": "What does context dependent expectations correct?"}
+{"sub": "CELEX", "rel": "is used as", "obj": "gold standard for evaluation", "doc-id": 4378, "question": "What is CELEX used as?"}
